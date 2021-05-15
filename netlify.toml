@@ -8,7 +8,7 @@
   to= /.netlify/functions/hello
   status=200
   force=true
-  signed=NETLIFY_FUNCTION_TOKEN
+  signed=myobscuretoken
 
 [[headers]]
   for = "/*"
