@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-tailwindcss-starter-plus",
+  "name": "gatsby-typescript-lambda-starter",
   "author": {
     "name": "Hamzah Syed",
     "email": "hamzah.syed17@gmail.com"
   },
-  "description": "Gatsby and Tailwindcss starter with additional features such as Typescript,Jest and Preact",
+  "description": "Gatsby and typescript lambda starter with additional features such as Typescript,Jest and Preact",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
