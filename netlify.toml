@@ -6,9 +6,9 @@
 [[redirects]]
   from = "/hello"
   to = "/.netlify/functions/hello"
-  status = 200
+  status = 401
   force = true
-  signed = "myobscuretoken"
+  signed = "API_SIGNATURE_TOKEN"
 
 [[headers]]
   for = "/*"
