@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/hello"
-  to = "/.netlify/functions/hello"
+  to = "https://jsonplaceholder.typicode.com/posts"
   status = 200
   force = true
   signed = "API_SIGNATURE_TOKEN"
